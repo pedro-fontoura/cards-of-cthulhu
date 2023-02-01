@@ -1,0 +1,19 @@
+{
+    "name": ">The Cards of Cthulhu",
+    "short_name": "TCOC",
+    "description": "A single player thematic card game for use with a standard deck of playing cards and some six-sided dice. Developed by Ian Richard in November 2012. Coded by Pedro Fontoura in December 2022",
+    "icons": [
+        {
+            "src": "icons/icon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#778899",
+    "background_color": "#F8F8FF",
+	"orientation": "landscape-primary",
+	"categories": [ "entertainment", "games", "cards", "solitaire" ],
+	"lang": "eng-uk"
+}
